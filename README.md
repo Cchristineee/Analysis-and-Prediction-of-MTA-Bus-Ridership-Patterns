@@ -36,6 +36,7 @@ Data Validation
 - <strong>Machine Learning:</strong> scikit-learn, xgboost
 
 <strong>🔮 Future Directions </strong>
+
 -Extend the analysis to include more granular data, such as demographic information.
 -Explore time series-specific algorithms for improved predictions.
 -Develop a dashboard for visualizing ridership trends in real time.
