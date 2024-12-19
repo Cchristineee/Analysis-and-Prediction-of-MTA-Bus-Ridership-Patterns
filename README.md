@@ -36,10 +36,11 @@ Data Validation
 - <strong>Machine Learning:</strong> scikit-learn, xgboost
 
 <strong>🔮 Future Directions </strong>
+<br>
+- Extend the analysis to include more granular data, such as demographic information.
+- Explore time series-specific algorithms for improved predictions.
+- Develop a dashboard for visualizing ridership trends in real time.
 
--Extend the analysis to include more granular data, such as demographic information.
--Explore time series-specific algorithms for improved predictions.
--Develop a dashboard for visualizing ridership trends in real time.
-
-<strong>🤝 Contributing</strong>
-Contributions are welcome! Feel free to submit issues or pull requests! 
+<strong> 🤝🏾 Contributing</strong>
+<br>
+- Contributions are welcome! Feel free to submit issues or pull requests! 
